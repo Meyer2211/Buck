@@ -1,0 +1,22 @@
+Circuit: * D:\Escritorio\Subir_Github\LTspiceBuckD1\ANALISIS_PERDIDAS_1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Nov 28 18:48:19 2024
+Total elapsed time: 1.665 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 643649
+traniter = 643644
+tranpoints = 241214
+accept = 189186
+rejected = 52028
+matrix size = 11
+fillins = 6
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 866 bytes object code size  0.6/0.4/[0.2]
+Matrix Compiler2: 925 bytes object code size  0.2/0.3/[0.2]
+

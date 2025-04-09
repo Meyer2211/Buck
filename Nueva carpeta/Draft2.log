@@ -1,0 +1,15 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\ASUS\Documents\UIS\3.Septimo\Electrónica Industrial\Proyecto\Draft2.net
+Start Time: Mon Apr  7 18:12:30 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.120 seconds.
+
+Files loaded:
+C:\Users\ASUS\Documents\UIS\3.Septimo\Electrónica Industrial\Proyecto\Draft2.net
+C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.dio
+
